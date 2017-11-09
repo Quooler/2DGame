@@ -11,15 +11,7 @@ public class CollisionDetection : MonoBehaviour
     public bool justNOTGrounded;
     public bool isFalling;
 
-    public bool isCeiled; 
-    public bool wasCeiledLastFrame;
-    public bool justCeiled;
-    public bool justNOTCeiled;
-
-    public bool isWalled; 
-    public bool wasWalledLastFrame;
-    public bool justWalled;
-    public bool justNOTWalled; 
+    public bool isWalled;
 
     [Header("Boxes")]
     public Vector2 groundBoxPos;
@@ -39,7 +31,7 @@ public class CollisionDetection : MonoBehaviour
     public ContactFilter2D filter;
 
 
-    private void FixedUpdate()
+    public void MyFixedUpdate()
     {
         ResetState();
         DetectGround();
@@ -55,15 +47,7 @@ public class CollisionDetection : MonoBehaviour
         justGrounded = false;
         isFalling = true;
 
-        wasCeiledLastFrame = isCeiled;
-        isCeiled = false;
-        justNOTCeiled = false;
-        justCeiled = false;
-
-        wasWalledLastFrame = isWalled;
         isWalled = false;
-        justNOTWalled = false;
-        justWalled = false; 
     }
 
     void DetectGround()
@@ -94,32 +78,32 @@ public class CollisionDetection : MonoBehaviour
 
     void DetectCeiling()
     {
-        if (!detectCeil) return;
+        if (!detectGround) return;
 
         Collider2D[] results = new Collider2D[maxHits];
         Vector3 newPos = (Vector3)ceilingBoxPos + transform.position;
-        int numHits = Physics2D.OverlapBox(newPos, ceilingBoxSize, 0, filter, results); 
+        int numHits = Physics2D.OverlapBox(newPos, ceilingBoxSize, 0, filter, results);
 
         if (numHits > 0)
         {
-            isCeiled = true;
+            isGrounded = true;
         }
 
-        if (!wasCeiledLastFrame && isCeiled)
+        if (!wasGroundedLastFrame && isGrounded)
         {
-            Debug.Log("JUST CEILED");
-            justCeiled = true;
+            Debug.Log("JUST GROUNDED");
+            justGrounded = true;
         }
-        if (wasCeiledLastFrame && !isCeiled)
+        if (wasGroundedLastFrame && !isGrounded)
         {
-            Debug.Log("JUST NOT CEILED");
-            justNOTCeiled = true; 
+            Debug.Log("JUST NOT GROUNDED");
+            justNOTGrounded = true;
         }
     }
 
     void DetectWall()
     {
-        if (!detectWall) return;
+        if (!detectGround) return;
 
         Collider2D[] results = new Collider2D[maxHits];
         Vector3 newPos = (Vector3)wallBoxPos + transform.position;
@@ -130,15 +114,15 @@ public class CollisionDetection : MonoBehaviour
             isWalled = true;
         }
 
-        if (!wasWalledLastFrame && isWalled)
+        if (!wasGroundedLastFrame && isGrounded)
         {
-            Debug.Log("JUST WALLED");
-            justWalled = true;
+            Debug.Log("JUST GROUNDED");
+            justGrounded = true;
         }
-        if (wasWalledLastFrame && !isWalled)
+        if (wasGroundedLastFrame && !isGrounded)
         {
-            Debug.Log("JUST NOT WALLED");
-            justNOTWalled = true;
+            Debug.Log("JUST NOT GROUNDED");
+            justNOTGrounded = true;
         }
     }
 
@@ -155,5 +139,10 @@ public class CollisionDetection : MonoBehaviour
         Gizmos.color = Color.blue;
         Vector3 newPosWall = (Vector3)wallBoxPos + transform.position;
         Gizmos.DrawWireCube(newPosWall, wallBoxSize);
+    }
+
+    public void Flip(bool other)
+    {
+
     }
 }
