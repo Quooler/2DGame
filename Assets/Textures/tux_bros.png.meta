@@ -1,0 +1,5097 @@
+fileFormatVersion: 2
+guid: c2ac1403d147d744da43fff1ef013663
+timeCreated: 1519984482
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tux_bros_0
+    21300002: tux_bros_1
+    21300004: tux_bros_2
+    21300006: tux_bros_3
+    21300008: tux_bros_4
+    21300010: tux_bros_5
+    21300012: tux_bros_6
+    21300014: tux_bros_7
+    21300016: tux_bros_8
+    21300018: tux_bros_9
+    21300020: tux_bros_10
+    21300022: tux_bros_11
+    21300024: tux_bros_12
+    21300026: tux_bros_13
+    21300028: tux_bros_14
+    21300030: tux_bros_15
+    21300032: tux_bros_16
+    21300034: tux_bros_17
+    21300036: tux_bros_18
+    21300038: tux_bros_19
+    21300040: tux_bros_20
+    21300042: tux_bros_21
+    21300044: tux_bros_22
+    21300046: tux_bros_23
+    21300048: tux_bros_24
+    21300050: tux_bros_25
+    21300052: tux_bros_26
+    21300054: tux_bros_27
+    21300056: tux_bros_28
+    21300058: tux_bros_29
+    21300060: tux_bros_30
+    21300062: tux_bros_31
+    21300064: tux_bros_32
+    21300066: tux_bros_33
+    21300068: tux_bros_34
+    21300070: tux_bros_35
+    21300072: tux_bros_36
+    21300074: tux_bros_37
+    21300076: tux_bros_38
+    21300078: tux_bros_39
+    21300080: tux_bros_40
+    21300082: tux_bros_41
+    21300084: tux_bros_42
+    21300086: tux_bros_43
+    21300088: tux_bros_44
+    21300090: tux_bros_45
+    21300092: tux_bros_46
+    21300094: tux_bros_47
+    21300096: tux_bros_48
+    21300098: tux_bros_49
+    21300100: tux_bros_50
+    21300102: tux_bros_51
+    21300104: tux_bros_52
+    21300106: tux_bros_53
+    21300108: tux_bros_54
+    21300110: tux_bros_55
+    21300112: tux_bros_56
+    21300114: tux_bros_57
+    21300116: tux_bros_58
+    21300118: tux_bros_59
+    21300120: tux_bros_60
+    21300122: tux_bros_61
+    21300124: tux_bros_62
+    21300126: tux_bros_63
+    21300128: tux_bros_64
+    21300130: tux_bros_65
+    21300132: tux_bros_66
+    21300134: tux_bros_67
+    21300136: tux_bros_68
+    21300138: tux_bros_69
+    21300140: tux_bros_70
+    21300142: tux_bros_71
+    21300144: tux_bros_72
+    21300146: tux_bros_73
+    21300148: tux_bros_74
+    21300150: tux_bros_75
+    21300152: tux_bros_76
+    21300154: tux_bros_77
+    21300156: tux_bros_78
+    21300158: tux_bros_79
+    21300160: tux_bros_80
+    21300162: tux_bros_81
+    21300164: tux_bros_82
+    21300166: tux_bros_83
+    21300168: tux_bros_84
+    21300170: tux_bros_85
+    21300172: tux_bros_86
+    21300174: tux_bros_87
+    21300176: tux_bros_88
+    21300178: tux_bros_89
+    21300180: tux_bros_90
+    21300182: tux_bros_91
+    21300184: tux_bros_92
+    21300186: tux_bros_93
+    21300188: tux_bros_94
+    21300190: tux_bros_95
+    21300192: tux_bros_96
+    21300194: tux_bros_97
+    21300196: tux_bros_98
+    21300198: tux_bros_99
+    21300200: tux_bros_100
+    21300202: tux_bros_101
+    21300204: tux_bros_102
+    21300206: tux_bros_103
+    21300208: tux_bros_104
+    21300210: tux_bros_105
+    21300212: tux_bros_106
+    21300214: tux_bros_107
+    21300216: tux_bros_108
+    21300218: tux_bros_109
+    21300220: tux_bros_110
+    21300222: tux_bros_111
+    21300224: tux_bros_112
+    21300226: tux_bros_113
+    21300228: tux_bros_114
+    21300230: tux_bros_115
+    21300232: tux_bros_116
+    21300234: tux_bros_117
+    21300236: tux_bros_118
+    21300238: tux_bros_119
+    21300240: tux_bros_120
+    21300242: tux_bros_121
+    21300244: tux_bros_122
+    21300246: tux_bros_123
+    21300248: tux_bros_124
+    21300250: tux_bros_125
+    21300252: tux_bros_126
+    21300254: tux_bros_127
+    21300256: tux_bros_128
+    21300258: tux_bros_129
+    21300260: tux_bros_130
+    21300262: tux_bros_131
+    21300264: tux_bros_132
+    21300266: tux_bros_133
+    21300268: tux_bros_134
+    21300270: tux_bros_135
+    21300272: tux_bros_136
+    21300274: tux_bros_137
+    21300276: tux_bros_138
+    21300278: tux_bros_139
+    21300280: tux_bros_140
+    21300282: tux_bros_141
+    21300284: tux_bros_142
+    21300286: tux_bros_143
+    21300288: tux_bros_144
+    21300290: tux_bros_145
+    21300292: tux_bros_146
+    21300294: tux_bros_147
+    21300296: tux_bros_148
+    21300298: tux_bros_149
+    21300300: tux_bros_150
+    21300302: tux_bros_151
+    21300304: tux_bros_152
+    21300306: tux_bros_153
+    21300308: tux_bros_154
+    21300310: tux_bros_155
+    21300312: tux_bros_156
+    21300314: tux_bros_157
+    21300316: tux_bros_158
+    21300318: tux_bros_159
+    21300320: tux_bros_160
+    21300322: tux_bros_161
+    21300324: tux_bros_162
+    21300326: tux_bros_163
+    21300328: tux_bros_164
+    21300330: tux_bros_165
+    21300332: tux_bros_166
+    21300334: tux_bros_167
+    21300336: tux_bros_168
+    21300338: tux_bros_169
+    21300340: tux_bros_170
+    21300342: tux_bros_171
+    21300344: tux_bros_172
+    21300346: tux_bros_173
+    21300348: tux_bros_174
+    21300350: tux_bros_175
+    21300352: tux_bros_176
+    21300354: tux_bros_177
+    21300356: tux_bros_178
+    21300358: tux_bros_179
+    21300360: tux_bros_180
+    21300362: tux_bros_181
+    21300364: tux_bros_182
+    21300366: tux_bros_183
+    21300368: tux_bros_184
+    21300370: tux_bros_185
+    21300372: tux_bros_186
+    21300374: tux_bros_187
+    21300376: tux_bros_188
+    21300378: tux_bros_189
+    21300380: tux_bros_190
+    21300382: tux_bros_191
+    21300384: tux_bros_192
+    21300386: tux_bros_193
+    21300388: tux_bros_194
+    21300390: tux_bros_195
+    21300392: tux_bros_196
+    21300394: tux_bros_197
+    21300396: tux_bros_198
+    21300398: tux_bros_199
+    21300400: tux_bros_200
+    21300402: tux_bros_201
+    21300404: tux_bros_202
+    21300406: tux_bros_203
+    21300408: tux_bros_204
+    21300410: tux_bros_205
+    21300412: tux_bros_206
+    21300414: tux_bros_207
+    21300416: tux_bros_208
+    21300418: tux_bros_209
+    21300420: tux_bros_210
+    21300422: tux_bros_211
+    21300424: tux_bros_212
+    21300426: tux_bros_213
+    21300428: tux_bros_214
+    21300430: tux_bros_215
+    21300432: tux_bros_216
+    21300434: tux_bros_217
+    21300436: tux_bros_218
+    21300438: tux_bros_219
+    21300440: tux_bros_220
+    21300442: tux_bros_221
+    21300444: tux_bros_222
+    21300446: tux_bros_223
+    21300448: tux_bros_224
+    21300450: tux_bros_225
+    21300452: tux_bros_226
+    21300454: tux_bros_227
+    21300456: tux_bros_228
+    21300458: tux_bros_229
+    21300460: tux_bros_230
+    21300462: tux_bros_231
+    21300464: tux_bros_232
+    21300466: tux_bros_233
+    21300468: tux_bros_234
+    21300470: tux_bros_235
+    21300472: tux_bros_236
+    21300474: tux_bros_237
+    21300476: tux_bros_238
+    21300478: tux_bros_239
+    21300480: tux_bros_240
+    21300482: tux_bros_241
+    21300484: tux_bros_242
+    21300486: tux_bros_243
+    21300488: tux_bros_244
+    21300490: tux_bros_245
+    21300492: tux_bros_246
+    21300494: tux_bros_247
+    21300496: tux_bros_248
+    21300498: tux_bros_249
+    21300500: tux_bros_250
+    21300502: tux_bros_251
+    21300504: tux_bros_252
+    21300506: tux_bros_253
+    21300508: tux_bros_254
+    21300510: tux_bros_255
+    21300512: tux_bros_256
+    21300514: tux_bros_257
+    21300516: tux_bros_258
+    21300518: tux_bros_259
+    21300520: tux_bros_260
+    21300522: tux_bros_261
+    21300524: tux_bros_262
+    21300526: tux_bros_263
+    21300528: tux_bros_264
+    21300530: tux_bros_265
+    21300532: tux_bros_266
+    21300534: tux_bros_267
+    21300536: tux_bros_268
+    21300538: tux_bros_269
+    21300540: tux_bros_270
+    21300542: tux_bros_271
+    21300544: tux_bros_272
+    21300546: tux_bros_273
+    21300548: tux_bros_274
+    21300550: tux_bros_275
+    21300552: tux_bros_276
+    21300554: tux_bros_277
+    21300556: tux_bros_278
+    21300558: tux_bros_279
+    21300560: tux_bros_280
+    21300562: tux_bros_281
+    21300564: tux_bros_282
+    21300566: tux_bros_283
+    21300568: tux_bros_284
+    21300570: tux_bros_285
+    21300572: tux_bros_286
+    21300574: tux_bros_287
+    21300576: tux_bros_288
+    21300578: tux_bros_289
+    21300580: tux_bros_290
+    21300582: tux_bros_291
+    21300584: tux_bros_292
+    21300586: tux_bros_293
+    21300588: tux_bros_294
+    21300590: tux_bros_295
+    21300592: tux_bros_296
+    21300594: tux_bros_297
+    21300596: tux_bros_298
+    21300598: tux_bros_299
+    21300600: tux_bros_300
+    21300602: tux_bros_301
+    21300604: tux_bros_302
+    21300606: tux_bros_303
+    21300608: tux_bros_304
+    21300610: tux_bros_305
+    21300612: tux_bros_306
+    21300614: tux_bros_307
+    21300616: tux_bros_308
+    21300618: tux_bros_309
+    21300620: tux_bros_310
+    21300622: tux_bros_311
+    21300624: tux_bros_312
+    21300626: tux_bros_313
+    21300628: tux_bros_314
+    21300630: tux_bros_315
+    21300632: tux_bros_316
+    21300634: tux_bros_317
+    21300636: tux_bros_318
+    21300638: tux_bros_319
+    21300640: tux_bros_320
+    21300642: tux_bros_321
+    21300644: tux_bros_322
+    21300646: tux_bros_323
+    21300648: tux_bros_324
+    21300650: tux_bros_325
+    21300652: tux_bros_326
+    21300654: tux_bros_327
+    21300656: tux_bros_328
+    21300658: tux_bros_329
+    21300660: tux_bros_330
+    21300662: tux_bros_331
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tux_bros_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2032
+        width: 256
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2033
+        width: 8
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2034
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1984
+        width: 40
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_16
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_17
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2016
+        width: 31
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2020
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1984
+        width: 24
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1968
+        width: 12
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1952
+        width: 192
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1696
+        width: 192
+        height: 288
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1968
+        width: 24
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1856
+        width: 96
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 144
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1949
+        width: 20
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_28
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1937
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1936
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_30
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1937
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1904
+        width: 31
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1936
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1904
+        width: 16
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1936
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_35
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1921
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_38
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_39
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_40
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_42
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_43
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1929
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_44
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_48
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_50
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1928
+        width: 7
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_53
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_55
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_56
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_58
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_59
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_60
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_61
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_62
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1912
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_63
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1916
+        width: 7
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_64
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1913
+        width: 12
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_65
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1913
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_66
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_67
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1917
+        width: 7
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_70
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_71
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_72
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1904
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_73
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1913
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_74
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1913
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1824
+        width: 32
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_76
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1872
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1584
+        width: 256
+        height: 304
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_78
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1856
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1840
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1824
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1696
+        width: 48
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1744
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1744
+        width: 80
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1664
+        width: 96
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 112
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1288
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1288
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_88
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_89
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_90
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_91
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_92
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_94
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_95
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_98
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1417
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_99
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_100
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_101
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_102
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1417
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_103
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1417
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_104
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_105
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_106
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_107
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_108
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_109
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_111
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_112
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_113
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_114
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_115
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_116
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1409
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_117
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_118
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1409
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_119
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_120
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_121
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_122
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_123
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1409
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_124
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_125
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_127
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_128
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_129
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1401
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_130
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_131
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_132
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1401
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_133
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_134
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1401
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_135
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_136
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_137
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_138
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_139
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_140
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_141
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_143
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_145
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_146
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_147
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_148
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_149
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1393
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_150
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_151
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1393
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_152
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_153
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_154
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_155
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_156
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_157
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_158
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1377
+        width: 7
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_159
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_160
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_161
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_162
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_163
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_164
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_165
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_166
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_167
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_168
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_169
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_170
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_171
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_172
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_173
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1377
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_174
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_175
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_176
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_177
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_178
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_179
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_180
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_181
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_183
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_184
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_185
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_186
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_187
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_188
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_189
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_190
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1369
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_191
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_192
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_193
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_194
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_195
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_196
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_197
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_198
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1369
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_199
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_200
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_201
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_202
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_203
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_204
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_205
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1361
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_206
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_207
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_208
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_209
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_210
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_211
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_212
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_213
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_214
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_215
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_216
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_217
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_218
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_219
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_220
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_221
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_222
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_223
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_224
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_225
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_226
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_227
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_228
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_229
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_230
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_231
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1353
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_232
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_233
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_234
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_235
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_236
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_237
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_238
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_239
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_240
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_241
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_242
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_243
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_244
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1337
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_245
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_246
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_247
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_248
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_249
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_250
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_251
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_252
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_253
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_254
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_256
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_257
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1313
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_258
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_259
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_260
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_261
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_262
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_263
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_264
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_265
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_266
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_267
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_268
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_269
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_270
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_271
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_272
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_273
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_274
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_275
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_276
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_277
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_278
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_279
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1305
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_280
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_281
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_282
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_283
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1297
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_284
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_285
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_286
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_287
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_288
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_289
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_290
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_291
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_292
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_293
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_294
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_295
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_296
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1289
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_297
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1289
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_298
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_299
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_300
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_301
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_302
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_303
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_304
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_305
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_306
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_307
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_308
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_309
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_310
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_311
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_312
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_313
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_314
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_315
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_316
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_317
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_318
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_319
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_320
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_321
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_322
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_323
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_324
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1273
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_325
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_326
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_327
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_328
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_329
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_330
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 776
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tux_bros_331
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 776
+        width: 256
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
