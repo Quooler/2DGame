@@ -1,0 +1,18 @@
+Update 
+{
+	if (input.GetTouch(0).phase == TouchPhase.Began)
+	{
+		Debug.Log("TAP");
+	}
+#if UNITY_ANDROID
+	foreach(Touch in Input.touches)
+	{
+		if (t.phase == TouchPhase.Began)
+		{
+			Debug.Log("TAP");
+		}
+	}
+#elif UNITY_EDITOR
+
+#endif
+}
