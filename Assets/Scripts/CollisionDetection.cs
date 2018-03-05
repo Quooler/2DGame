@@ -4,145 +4,134 @@ using UnityEngine;
 
 public class CollisionDetection : MonoBehaviour
 {
+    #region Variables
+    [Header("Physics")]
+    private Rigidbody2D _rb2D;
+    private Collider2D _coll2D;
+    private float gravityMagnitude = 1.50f;
+    [Header("Permissions")]
+    public bool checkGround = true;
+    public bool checkCeiling = true;
+    public bool checkWall = true;
     [Header("State")]
-    public bool isGrounded;
-    public bool wasGroundedLastFrame;
-    public bool justGrounded;
-    public bool justNOTGrounded;
-    public bool isFalling;
+    [HideInInspector] public bool isGrounded;
+    [HideInInspector] public bool isTouchingCeiling;
+    [HideInInspector] public bool isTouchingWall;
+    [HideInInspector] public bool isFalling;
+    [HideInInspector] public bool wasGroundedLastFrame;
+    [HideInInspector] public bool wasTouchingCeilingLastFrame;
+    [HideInInspector] public bool wasTouchingWallLastFrame;
+    [HideInInspector] public bool justGotGrounded;
+    [HideInInspector] public bool justNotGrounded;
+    [HideInInspector] public bool justTouchWall;
+    [HideInInspector] public bool justTouchCeiling;    
+    [Header("Ground Filter")]
+    public ContactFilter2D groundFilter;
+    public ContactFilter2D wallFilter;
+    public int maxGroundHits;
+    private LayerMask _groundMaskSave;
+    [Header("Ground Box")]
+    public Vector2 bottomBoxSize;
+    public Vector2 bottomBoxPos;    
+    [Header("Ceiling Box")]
+    public Vector2 topBoxSize;
+    public Vector2 topBoxPos;
+    [Header("Wall Box")]
+    public Vector2 sideBoxSize;
+    public Vector2 sideBoxPos;
+    #endregion
 
-    public bool isWalled;
+    public void MyStart()
+    {
+        _groundMaskSave = groundFilter.layerMask;
 
-    [Header("Boxes")]
-    public Vector2 groundBoxPos;
-    public Vector2 groundBoxSize;
+        _rb2D = GetComponent<Rigidbody2D>();
+        _coll2D = GetComponent<Collider2D>();
 
-    public Vector2 ceilingBoxPos;
-    public Vector2 ceilingBoxSize;
-
-    public Vector2 wallBoxPos;
-    public Vector2 wallBoxSize; 
-
-    [Header("Properties")]
-    public int maxHits;
-    public bool detectGround = true;
-    public bool detectCeil = false;
-    public bool detectWall = false; 
-    public ContactFilter2D filter;
-
+        _rb2D.gravityScale = gravityMagnitude;
+    }
 
     public void MyFixedUpdate()
     {
         ResetState();
-        DetectGround();
-        DetectCeiling();
-        DetectWall(); 
+
+        if(checkGround) GroundCollision();
+        if(checkCeiling) CeilingCollision();
+        if(checkWall) WallCollision();
     }
 
-    void ResetState()
+    private void ResetState()
     {
         wasGroundedLastFrame = isGrounded;
+        wasTouchingCeilingLastFrame = isTouchingCeiling;
+        wasTouchingWallLastFrame = isTouchingWall;
+
         isGrounded = false;
-        justNOTGrounded = false;
-        justGrounded = false;
+        isTouchingWall = false;
+        isTouchingCeiling = false;
+
+        justGotGrounded = false;
+        justNotGrounded = false;
+        justTouchCeiling = false;
+        justTouchWall = false;
+
         isFalling = true;
-
-        isWalled = false;
     }
-
-    void DetectGround()
+    private void GroundCollision()
     {
-        if (!detectGround) return;
+        Collider2D[] results = new Collider2D[maxGroundHits];
+        Vector2 pos = this.transform.position;
+        int hits = Physics2D.OverlapBox(pos + bottomBoxPos, bottomBoxSize, 0, groundFilter, results);
 
-        Collider2D[] results = new Collider2D[maxHits];
-        Vector3 newPos = (Vector3)groundBoxPos + transform.position;
-        int numHits = Physics2D.OverlapBox(newPos, groundBoxSize, 0, filter, results);
-
-        if (numHits > 0)
-        {
-            isGrounded = true;
-        }
-        isFalling = !isGrounded;
-
-        if (!wasGroundedLastFrame && isGrounded)
-        {
-            Debug.Log("JUST GROUNDED");
-            justGrounded = true;
-        }
-        if (wasGroundedLastFrame && !isGrounded)
-        {
-            Debug.Log("JUST NOT GROUNDED");
-            justNOTGrounded = true;
-        }
-    }
-
-    void DetectCeiling()
-    {
-        if (!detectGround) return;
-
-        Collider2D[] results = new Collider2D[maxHits];
-        Vector3 newPos = (Vector3)ceilingBoxPos + transform.position;
-        int numHits = Physics2D.OverlapBox(newPos, ceilingBoxSize, 0, filter, results);
-
-        if (numHits > 0)
+        if(hits > 0)
         {
             isGrounded = true;
         }
 
-        if (!wasGroundedLastFrame && isGrounded)
-        {
-            Debug.Log("JUST GROUNDED");
-            justGrounded = true;
-        }
-        if (wasGroundedLastFrame && !isGrounded)
-        {
-            Debug.Log("JUST NOT GROUNDED");
-            justNOTGrounded = true;
-        }
+        if(!wasGroundedLastFrame && isGrounded) justGotGrounded = true;
+        if(wasGroundedLastFrame && !isGrounded) justNotGrounded = true;
+        if(isGrounded) isFalling = false;
     }
-
-    void DetectWall()
+    private void CeilingCollision()
     {
-        if (!detectGround) return;
+        Collider2D[] results = new Collider2D[maxGroundHits];
+        Vector2 pos = this.transform.position;
+        int hits = Physics2D.OverlapBox(pos + topBoxPos, topBoxSize, 0, groundFilter, results);
 
-        Collider2D[] results = new Collider2D[maxHits];
-        Vector3 newPos = (Vector3)wallBoxPos + transform.position;
-        int numHits = Physics2D.OverlapBox(newPos, wallBoxSize, 0, filter, results);
-
-        if (numHits > 0)
+        if(hits > 0)
         {
-            isWalled = true;
+            isTouchingCeiling = true;
         }
 
-        if (!wasGroundedLastFrame && isGrounded)
-        {
-            Debug.Log("JUST GROUNDED");
-            justGrounded = true;
-        }
-        if (wasGroundedLastFrame && !isGrounded)
-        {
-            Debug.Log("JUST NOT GROUNDED");
-            justNOTGrounded = true;
-        }
+        if(!wasTouchingCeilingLastFrame && isTouchingCeiling) justTouchCeiling = true;
     }
+    private void WallCollision()
+    {
+        Collider2D[] results = new Collider2D[maxGroundHits];
+        Vector2 pos = this.transform.position;
+        int hits = Physics2D.OverlapBox(pos + sideBoxPos, sideBoxSize, 0, wallFilter, results);
+
+        if(hits > 0)
+        {
+            isTouchingWall = true;
+        }
+
+        if(!wasTouchingWallLastFrame && isTouchingWall) justTouchWall = true;
+    }
+
+    public void Flip()
+    {
+        sideBoxPos.x *= -1;
+    }   
 
     private void OnDrawGizmosSelected()
     {
+        Gizmos.color = Color.red;
+        Vector2 pos = this.transform.position;
+        Gizmos.DrawWireCube(pos + bottomBoxPos, bottomBoxSize);
+        Gizmos.DrawWireCube(pos + topBoxPos, topBoxSize);
         Gizmos.color = Color.blue;
-        Vector3 newPosGround = (Vector3)groundBoxPos + transform.position;
-        Gizmos.DrawWireCube(newPosGround, groundBoxSize);
-
-        Gizmos.color = Color.blue;
-        Vector3 newPosCeil = (Vector3)ceilingBoxPos + transform.position;
-        Gizmos.DrawWireCube(newPosCeil, ceilingBoxSize);
-
-        Gizmos.color = Color.blue;
-        Vector3 newPosWall = (Vector3)wallBoxPos + transform.position;
-        Gizmos.DrawWireCube(newPosWall, wallBoxSize);
+        Gizmos.DrawWireCube(pos + sideBoxPos, sideBoxSize);
     }
 
-    public void Flip(bool other)
-    {
-
-    }
 }

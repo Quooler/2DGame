@@ -1,32 +1,31 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class InputManager : MonoBehaviour
 {
-    public CharacterBehaviour player;
+    [SerializeField]
+    Player player;
+    bool isPaused;
 
-	void Start ()
-    {
-        player = GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterBehaviour>();
-	}
-	
 	void Update ()
     {
-        // Leer para pausar el juego
-        InputPause();
-        // movimiento del player
+        if (isPaused)
+        {
+            PauseUpdate();
+            return;
+        }
         InputAxis();
-        // salto del player
         InputJump();
-        // alternar entre caminar y correr para el player
-        InputRun();
+        InputPause();
 	}
 
-    void InputPause()
+    void PauseUpdate()
     {
-        if(Input.GetButtonDown("Pause")) { Debug.Log("Pause"); }
+        
     }
+
     void InputAxis()
     {
         Vector2 axis = Vector2.zero;
@@ -36,32 +35,22 @@ public class InputManager : MonoBehaviour
     }
     void InputJump()
     {
-        if(Input.GetButtonDown("Jump"))
+        if(Input.GetButton("Jump"))
         {
             Debug.Log("Jump");
             player.JumpStart();
         }
     }
-    void InputRun()
+
+    void InputPause()
     {
-        if(Input.GetButtonDown("Run"))
+        if(Input.GetButtonDown("Pause"))
         {
-            Debug.Log("Run");
-            player.isRunning = true;
-        }
-        if(Input.GetButtonUp("Run"))
-        {
-            player.isRunning = false;
-            Debug.Log("Walk");
+            isPaused = !isPaused;
+
+            if(isPaused) Time.timeScale = 0;
+            else Time.timeScale = 1; 
         }
     }
 
-    void InputGodMode()
-    {
-
-    }
-    void InputDirectAccess()
-    {
-
-    }
 }
