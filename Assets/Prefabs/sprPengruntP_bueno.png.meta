@@ -1,0 +1,7422 @@
+fileFormatVersion: 2
+guid: 0c2cd597fe33db5489335fa4d29d78e3
+timeCreated: 1520245431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprPengruntP_bueno_0
+    21300002: sprPengruntP_bueno_1
+    21300004: sprPengruntP_bueno_2
+    21300006: sprPengruntP_bueno_3
+    21300008: sprPengruntP_bueno_4
+    21300010: sprPengruntP_bueno_5
+    21300012: sprPengruntP_bueno_6
+    21300014: sprPengruntP_bueno_7
+    21300016: sprPengruntP_bueno_8
+    21300018: sprPengruntP_bueno_9
+    21300020: sprPengruntP_bueno_10
+    21300022: sprPengruntP_bueno_11
+    21300024: sprPengruntP_bueno_12
+    21300026: sprPengruntP_bueno_13
+    21300028: sprPengruntP_bueno_14
+    21300030: sprPengruntP_bueno_15
+    21300032: sprPengruntP_bueno_16
+    21300034: sprPengruntP_bueno_17
+    21300036: sprPengruntP_bueno_18
+    21300038: sprPengruntP_bueno_19
+    21300040: sprPengruntP_bueno_20
+    21300042: sprPengruntP_bueno_21
+    21300044: sprPengruntP_bueno_22
+    21300046: sprPengruntP_bueno_23
+    21300048: sprPengruntP_bueno_24
+    21300050: sprPengruntP_bueno_25
+    21300052: sprPengruntP_bueno_26
+    21300054: sprPengruntP_bueno_27
+    21300056: sprPengruntP_bueno_28
+    21300058: sprPengruntP_bueno_29
+    21300060: sprPengruntP_bueno_30
+    21300062: sprPengruntP_bueno_31
+    21300064: sprPengruntP_bueno_32
+    21300066: sprPengruntP_bueno_33
+    21300068: sprPengruntP_bueno_34
+    21300070: sprPengruntP_bueno_35
+    21300072: sprPengruntP_bueno_36
+    21300074: sprPengruntP_bueno_37
+    21300076: sprPengruntP_bueno_38
+    21300078: sprPengruntP_bueno_39
+    21300080: sprPengruntP_bueno_40
+    21300082: sprPengruntP_bueno_41
+    21300084: sprPengruntP_bueno_42
+    21300086: sprPengruntP_bueno_43
+    21300088: sprPengruntP_bueno_44
+    21300090: sprPengruntP_bueno_45
+    21300092: sprPengruntP_bueno_46
+    21300094: sprPengruntP_bueno_47
+    21300096: sprPengruntP_bueno_48
+    21300098: sprPengruntP_bueno_49
+    21300100: sprPengruntP_bueno_50
+    21300102: sprPengruntP_bueno_51
+    21300104: sprPengruntP_bueno_52
+    21300106: sprPengruntP_bueno_53
+    21300108: sprPengruntP_bueno_54
+    21300110: sprPengruntP_bueno_55
+    21300112: sprPengruntP_bueno_56
+    21300114: sprPengruntP_bueno_57
+    21300116: sprPengruntP_bueno_58
+    21300118: sprPengruntP_bueno_59
+    21300120: sprPengruntP_bueno_60
+    21300122: sprPengruntP_bueno_61
+    21300124: sprPengruntP_bueno_62
+    21300126: sprPengruntP_bueno_63
+    21300128: sprPengruntP_bueno_64
+    21300130: sprPengruntP_bueno_65
+    21300132: sprPengruntP_bueno_66
+    21300134: sprPengruntP_bueno_67
+    21300136: sprPengruntP_bueno_68
+    21300138: sprPengruntP_bueno_69
+    21300140: sprPengruntP_bueno_70
+    21300142: sprPengruntP_bueno_71
+    21300144: sprPengruntP_bueno_72
+    21300146: sprPengruntP_bueno_73
+    21300148: sprPengruntP_bueno_74
+    21300150: sprPengruntP_bueno_75
+    21300152: sprPengruntP_bueno_76
+    21300154: sprPengruntP_bueno_77
+    21300156: sprPengruntP_bueno_78
+    21300158: sprPengruntP_bueno_79
+    21300160: sprPengruntP_bueno_80
+    21300162: sprPengruntP_bueno_81
+    21300164: sprPengruntP_bueno_82
+    21300166: sprPengruntP_bueno_83
+    21300168: sprPengruntP_bueno_84
+    21300170: sprPengruntP_bueno_85
+    21300172: sprPengruntP_bueno_86
+    21300174: sprPengruntP_bueno_87
+    21300176: sprPengruntP_bueno_88
+    21300178: sprPengruntP_bueno_89
+    21300180: sprPengruntP_bueno_90
+    21300182: sprPengruntP_bueno_91
+    21300184: sprPengruntP_bueno_92
+    21300186: sprPengruntP_bueno_93
+    21300188: sprPengruntP_bueno_94
+    21300190: sprPengruntP_bueno_95
+    21300192: sprPengruntP_bueno_96
+    21300194: sprPengruntP_bueno_97
+    21300196: sprPengruntP_bueno_98
+    21300198: sprPengruntP_bueno_99
+    21300200: sprPengruntP_bueno_100
+    21300202: sprPengruntP_bueno_101
+    21300204: sprPengruntP_bueno_102
+    21300206: sprPengruntP_bueno_103
+    21300208: sprPengruntP_bueno_104
+    21300210: sprPengruntP_bueno_105
+    21300212: sprPengruntP_bueno_106
+    21300214: sprPengruntP_bueno_107
+    21300216: sprPengruntP_bueno_108
+    21300218: sprPengruntP_bueno_109
+    21300220: sprPengruntP_bueno_110
+    21300222: sprPengruntP_bueno_111
+    21300224: sprPengruntP_bueno_112
+    21300226: sprPengruntP_bueno_113
+    21300228: sprPengruntP_bueno_114
+    21300230: sprPengruntP_bueno_115
+    21300232: sprPengruntP_bueno_116
+    21300234: sprPengruntP_bueno_117
+    21300236: sprPengruntP_bueno_118
+    21300238: sprPengruntP_bueno_119
+    21300240: sprPengruntP_bueno_120
+    21300242: sprPengruntP_bueno_121
+    21300244: sprPengruntP_bueno_122
+    21300246: sprPengruntP_bueno_123
+    21300248: sprPengruntP_bueno_124
+    21300250: sprPengruntP_bueno_125
+    21300252: sprPengruntP_bueno_126
+    21300254: sprPengruntP_bueno_127
+    21300256: sprPengruntP_bueno_128
+    21300258: sprPengruntP_bueno_129
+    21300260: sprPengruntP_bueno_130
+    21300262: sprPengruntP_bueno_131
+    21300264: sprPengruntP_bueno_132
+    21300266: sprPengruntP_bueno_133
+    21300268: sprPengruntP_bueno_134
+    21300270: sprPengruntP_bueno_135
+    21300272: sprPengruntP_bueno_136
+    21300274: sprPengruntP_bueno_137
+    21300276: sprPengruntP_bueno_138
+    21300278: sprPengruntP_bueno_139
+    21300280: sprPengruntP_bueno_140
+    21300282: sprPengruntP_bueno_141
+    21300284: sprPengruntP_bueno_142
+    21300286: sprPengruntP_bueno_143
+    21300288: sprPengruntP_bueno_144
+    21300290: sprPengruntP_bueno_145
+    21300292: sprPengruntP_bueno_146
+    21300294: sprPengruntP_bueno_147
+    21300296: sprPengruntP_bueno_148
+    21300298: sprPengruntP_bueno_149
+    21300300: sprPengruntP_bueno_150
+    21300302: sprPengruntP_bueno_151
+    21300304: sprPengruntP_bueno_152
+    21300306: sprPengruntP_bueno_153
+    21300308: sprPengruntP_bueno_154
+    21300310: sprPengruntP_bueno_155
+    21300312: sprPengruntP_bueno_156
+    21300314: sprPengruntP_bueno_157
+    21300316: sprPengruntP_bueno_158
+    21300318: sprPengruntP_bueno_159
+    21300320: sprPengruntP_bueno_160
+    21300322: sprPengruntP_bueno_161
+    21300324: sprPengruntP_bueno_162
+    21300326: sprPengruntP_bueno_163
+    21300328: sprPengruntP_bueno_164
+    21300330: sprPengruntP_bueno_165
+    21300332: sprPengruntP_bueno_166
+    21300334: sprPengruntP_bueno_167
+    21300336: sprPengruntP_bueno_168
+    21300338: sprPengruntP_bueno_169
+    21300340: sprPengruntP_bueno_170
+    21300342: sprPengruntP_bueno_171
+    21300344: sprPengruntP_bueno_172
+    21300346: sprPengruntP_bueno_173
+    21300348: sprPengruntP_bueno_174
+    21300350: sprPengruntP_bueno_175
+    21300352: sprPengruntP_bueno_176
+    21300354: sprPengruntP_bueno_177
+    21300356: sprPengruntP_bueno_178
+    21300358: sprPengruntP_bueno_179
+    21300360: sprPengruntP_bueno_180
+    21300362: sprPengruntP_bueno_181
+    21300364: sprPengruntP_bueno_182
+    21300366: sprPengruntP_bueno_183
+    21300368: sprPengruntP_bueno_184
+    21300370: sprPengruntP_bueno_185
+    21300372: sprPengruntP_bueno_186
+    21300374: sprPengruntP_bueno_187
+    21300376: sprPengruntP_bueno_188
+    21300378: sprPengruntP_bueno_189
+    21300380: sprPengruntP_bueno_190
+    21300382: sprPengruntP_bueno_191
+    21300384: sprPengruntP_bueno_192
+    21300386: sprPengruntP_bueno_193
+    21300388: sprPengruntP_bueno_194
+    21300390: sprPengruntP_bueno_195
+    21300392: sprPengruntP_bueno_196
+    21300394: sprPengruntP_bueno_197
+    21300396: sprPengruntP_bueno_198
+    21300398: sprPengruntP_bueno_199
+    21300400: sprPengruntP_bueno_200
+    21300402: sprPengruntP_bueno_201
+    21300404: sprPengruntP_bueno_202
+    21300406: sprPengruntP_bueno_203
+    21300408: sprPengruntP_bueno_204
+    21300410: sprPengruntP_bueno_205
+    21300412: sprPengruntP_bueno_206
+    21300414: sprPengruntP_bueno_207
+    21300416: sprPengruntP_bueno_208
+    21300418: sprPengruntP_bueno_209
+    21300420: sprPengruntP_bueno_210
+    21300422: sprPengruntP_bueno_211
+    21300424: sprPengruntP_bueno_212
+    21300426: sprPengruntP_bueno_213
+    21300428: sprPengruntP_bueno_214
+    21300430: sprPengruntP_bueno_215
+    21300432: sprPengruntP_bueno_216
+    21300434: sprPengruntP_bueno_217
+    21300436: sprPengruntP_bueno_218
+    21300438: sprPengruntP_bueno_219
+    21300440: sprPengruntP_bueno_220
+    21300442: sprPengruntP_bueno_221
+    21300444: sprPengruntP_bueno_222
+    21300446: sprPengruntP_bueno_223
+    21300448: sprPengruntP_bueno_224
+    21300450: sprPengruntP_bueno_225
+    21300452: sprPengruntP_bueno_226
+    21300454: sprPengruntP_bueno_227
+    21300456: sprPengruntP_bueno_228
+    21300458: sprPengruntP_bueno_229
+    21300460: sprPengruntP_bueno_230
+    21300462: sprPengruntP_bueno_231
+    21300464: sprPengruntP_bueno_232
+    21300466: sprPengruntP_bueno_233
+    21300468: sprPengruntP_bueno_234
+    21300470: sprPengruntP_bueno_235
+    21300472: sprPengruntP_bueno_236
+    21300474: sprPengruntP_bueno_237
+    21300476: sprPengruntP_bueno_238
+    21300478: sprPengruntP_bueno_239
+    21300480: sprPengruntP_bueno_240
+    21300482: sprPengruntP_bueno_241
+    21300484: sprPengruntP_bueno_242
+    21300486: sprPengruntP_bueno_243
+    21300488: sprPengruntP_bueno_244
+    21300490: sprPengruntP_bueno_245
+    21300492: sprPengruntP_bueno_246
+    21300494: sprPengruntP_bueno_247
+    21300496: sprPengruntP_bueno_248
+    21300498: sprPengruntP_bueno_249
+    21300500: sprPengruntP_bueno_250
+    21300502: sprPengruntP_bueno_251
+    21300504: sprPengruntP_bueno_252
+    21300506: sprPengruntP_bueno_253
+    21300508: sprPengruntP_bueno_254
+    21300510: sprPengruntP_bueno_255
+    21300512: sprPengruntP_bueno_256
+    21300514: sprPengruntP_bueno_257
+    21300516: sprPengruntP_bueno_258
+    21300518: sprPengruntP_bueno_259
+    21300520: sprPengruntP_bueno_260
+    21300522: sprPengruntP_bueno_261
+    21300524: sprPengruntP_bueno_262
+    21300526: sprPengruntP_bueno_263
+    21300528: sprPengruntP_bueno_264
+    21300530: sprPengruntP_bueno_265
+    21300532: sprPengruntP_bueno_266
+    21300534: sprPengruntP_bueno_267
+    21300536: sprPengruntP_bueno_268
+    21300538: sprPengruntP_bueno_269
+    21300540: sprPengruntP_bueno_270
+    21300542: sprPengruntP_bueno_271
+    21300544: sprPengruntP_bueno_272
+    21300546: sprPengruntP_bueno_273
+    21300548: sprPengruntP_bueno_274
+    21300550: sprPengruntP_bueno_275
+    21300552: sprPengruntP_bueno_276
+    21300554: sprPengruntP_bueno_277
+    21300556: sprPengruntP_bueno_278
+    21300558: sprPengruntP_bueno_279
+    21300560: sprPengruntP_bueno_280
+    21300562: sprPengruntP_bueno_281
+    21300564: sprPengruntP_bueno_282
+    21300566: sprPengruntP_bueno_283
+    21300568: sprPengruntP_bueno_284
+    21300570: sprPengruntP_bueno_285
+    21300572: sprPengruntP_bueno_286
+    21300574: sprPengruntP_bueno_287
+    21300576: sprPengruntP_bueno_288
+    21300578: sprPengruntP_bueno_289
+    21300580: sprPengruntP_bueno_290
+    21300582: sprPengruntP_bueno_291
+    21300584: sprPengruntP_bueno_292
+    21300586: sprPengruntP_bueno_293
+    21300588: sprPengruntP_bueno_294
+    21300590: sprPengruntP_bueno_295
+    21300592: sprPengruntP_bueno_296
+    21300594: sprPengruntP_bueno_297
+    21300596: sprPengruntP_bueno_298
+    21300598: sprPengruntP_bueno_299
+    21300600: sprPengruntP_bueno_300
+    21300602: sprPengruntP_bueno_301
+    21300604: sprPengruntP_bueno_302
+    21300606: sprPengruntP_bueno_303
+    21300608: sprPengruntP_bueno_304
+    21300610: sprPengruntP_bueno_305
+    21300612: sprPengruntP_bueno_306
+    21300614: sprPengruntP_bueno_307
+    21300616: sprPengruntP_bueno_308
+    21300618: sprPengruntP_bueno_309
+    21300620: sprPengruntP_bueno_310
+    21300622: sprPengruntP_bueno_311
+    21300624: sprPengruntP_bueno_312
+    21300626: sprPengruntP_bueno_313
+    21300628: sprPengruntP_bueno_314
+    21300630: sprPengruntP_bueno_315
+    21300632: sprPengruntP_bueno_316
+    21300634: sprPengruntP_bueno_317
+    21300636: sprPengruntP_bueno_318
+    21300638: sprPengruntP_bueno_319
+    21300640: sprPengruntP_bueno_320
+    21300642: sprPengruntP_bueno_321
+    21300644: sprPengruntP_bueno_322
+    21300646: sprPengruntP_bueno_323
+    21300648: sprPengruntP_bueno_324
+    21300650: sprPengruntP_bueno_325
+    21300652: sprPengruntP_bueno_326
+    21300654: sprPengruntP_bueno_327
+    21300656: sprPengruntP_bueno_328
+    21300658: sprPengruntP_bueno_329
+    21300660: sprPengruntP_bueno_330
+    21300662: sprPengruntP_bueno_331
+    21300664: sprPengruntP_bueno_332
+    21300666: sprPengruntP_bueno_333
+    21300668: sprPengruntP_bueno_334
+    21300670: sprPengruntP_bueno_335
+    21300672: sprPengruntP_bueno_336
+    21300674: sprPengruntP_bueno_337
+    21300676: sprPengruntP_bueno_338
+    21300678: sprPengruntP_bueno_339
+    21300680: sprPengruntP_bueno_340
+    21300682: sprPengruntP_bueno_341
+    21300684: sprPengruntP_bueno_342
+    21300686: sprPengruntP_bueno_343
+    21300688: sprPengruntP_bueno_344
+    21300690: sprPengruntP_bueno_345
+    21300692: sprPengruntP_bueno_346
+    21300694: sprPengruntP_bueno_347
+    21300696: sprPengruntP_bueno_348
+    21300698: sprPengruntP_bueno_349
+    21300700: sprPengruntP_bueno_350
+    21300702: sprPengruntP_bueno_351
+    21300704: sprPengruntP_bueno_352
+    21300706: sprPengruntP_bueno_353
+    21300708: sprPengruntP_bueno_354
+    21300710: sprPengruntP_bueno_355
+    21300712: sprPengruntP_bueno_356
+    21300714: sprPengruntP_bueno_357
+    21300716: sprPengruntP_bueno_358
+    21300718: sprPengruntP_bueno_359
+    21300720: sprPengruntP_bueno_360
+    21300722: sprPengruntP_bueno_361
+    21300724: sprPengruntP_bueno_362
+    21300726: sprPengruntP_bueno_363
+    21300728: sprPengruntP_bueno_364
+    21300730: sprPengruntP_bueno_365
+    21300732: sprPengruntP_bueno_366
+    21300734: sprPengruntP_bueno_367
+    21300736: sprPengruntP_bueno_368
+    21300738: sprPengruntP_bueno_369
+    21300740: sprPengruntP_bueno_370
+    21300742: sprPengruntP_bueno_371
+    21300744: sprPengruntP_bueno_372
+    21300746: sprPengruntP_bueno_373
+    21300748: sprPengruntP_bueno_374
+    21300750: sprPengruntP_bueno_375
+    21300752: sprPengruntP_bueno_376
+    21300754: sprPengruntP_bueno_377
+    21300756: sprPengruntP_bueno_378
+    21300758: sprPengruntP_bueno_379
+    21300760: sprPengruntP_bueno_380
+    21300762: sprPengruntP_bueno_381
+    21300764: sprPengruntP_bueno_382
+    21300766: sprPengruntP_bueno_383
+    21300768: sprPengruntP_bueno_384
+    21300770: sprPengruntP_bueno_385
+    21300772: sprPengruntP_bueno_386
+    21300774: sprPengruntP_bueno_387
+    21300776: sprPengruntP_bueno_388
+    21300778: sprPengruntP_bueno_389
+    21300780: sprPengruntP_bueno_390
+    21300782: sprPengruntP_bueno_391
+    21300784: sprPengruntP_bueno_392
+    21300786: sprPengruntP_bueno_393
+    21300788: sprPengruntP_bueno_394
+    21300790: sprPengruntP_bueno_395
+    21300792: sprPengruntP_bueno_396
+    21300794: sprPengruntP_bueno_397
+    21300796: sprPengruntP_bueno_398
+    21300798: sprPengruntP_bueno_399
+    21300800: sprPengruntP_bueno_400
+    21300802: sprPengruntP_bueno_401
+    21300804: sprPengruntP_bueno_402
+    21300806: sprPengruntP_bueno_403
+    21300808: sprPengruntP_bueno_404
+    21300810: sprPengruntP_bueno_405
+    21300812: sprPengruntP_bueno_406
+    21300814: sprPengruntP_bueno_407
+    21300816: sprPengruntP_bueno_408
+    21300818: sprPengruntP_bueno_409
+    21300820: sprPengruntP_bueno_410
+    21300822: sprPengruntP_bueno_411
+    21300824: sprPengruntP_bueno_412
+    21300826: sprPengruntP_bueno_413
+    21300828: sprPengruntP_bueno_414
+    21300830: sprPengruntP_bueno_415
+    21300832: sprPengruntP_bueno_416
+    21300834: sprPengruntP_bueno_417
+    21300836: sprPengruntP_bueno_418
+    21300838: sprPengruntP_bueno_419
+    21300840: sprPengruntP_bueno_420
+    21300842: sprPengruntP_bueno_421
+    21300844: sprPengruntP_bueno_422
+    21300846: sprPengruntP_bueno_423
+    21300848: sprPengruntP_bueno_424
+    21300850: sprPengruntP_bueno_425
+    21300852: sprPengruntP_bueno_426
+    21300854: sprPengruntP_bueno_427
+    21300856: sprPengruntP_bueno_428
+    21300858: sprPengruntP_bueno_429
+    21300860: sprPengruntP_bueno_430
+    21300862: sprPengruntP_bueno_431
+    21300864: sprPengruntP_bueno_432
+    21300866: sprPengruntP_bueno_433
+    21300868: sprPengruntP_bueno_434
+    21300870: sprPengruntP_bueno_435
+    21300872: sprPengruntP_bueno_436
+    21300874: sprPengruntP_bueno_437
+    21300876: sprPengruntP_bueno_438
+    21300878: sprPengruntP_bueno_439
+    21300880: sprPengruntP_bueno_440
+    21300882: sprPengruntP_bueno_441
+    21300884: sprPengruntP_bueno_442
+    21300886: sprPengruntP_bueno_443
+    21300888: sprPengruntP_bueno_444
+    21300890: sprPengruntP_bueno_445
+    21300892: sprPengruntP_bueno_446
+    21300894: sprPengruntP_bueno_447
+    21300896: sprPengruntP_bueno_448
+    21300898: sprPengruntP_bueno_449
+    21300900: sprPengruntP_bueno_450
+    21300902: sprPengruntP_bueno_451
+    21300904: sprPengruntP_bueno_452
+    21300906: sprPengruntP_bueno_453
+    21300908: sprPengruntP_bueno_454
+    21300910: sprPengruntP_bueno_455
+    21300912: sprPengruntP_bueno_456
+    21300914: sprPengruntP_bueno_457
+    21300916: sprPengruntP_bueno_458
+    21300918: sprPengruntP_bueno_459
+    21300920: sprPengruntP_bueno_460
+    21300922: sprPengruntP_bueno_461
+    21300924: sprPengruntP_bueno_462
+    21300926: sprPengruntP_bueno_463
+    21300928: sprPengruntP_bueno_464
+    21300930: sprPengruntP_bueno_465
+    21300932: sprPengruntP_bueno_466
+    21300934: sprPengruntP_bueno_467
+    21300936: sprPengruntP_bueno_468
+    21300938: sprPengruntP_bueno_469
+    21300940: sprPengruntP_bueno_470
+    21300942: sprPengruntP_bueno_471
+    21300944: sprPengruntP_bueno_472
+    21300946: sprPengruntP_bueno_473
+    21300948: sprPengruntP_bueno_474
+    21300950: sprPengruntP_bueno_475
+    21300952: sprPengruntP_bueno_476
+    21300954: sprPengruntP_bueno_477
+    21300956: sprPengruntP_bueno_478
+    21300958: sprPengruntP_bueno_479
+    21300960: sprPengruntP_bueno_480
+    21300962: sprPengruntP_bueno_481
+    21300964: sprPengruntP_bueno_482
+    21300966: sprPengruntP_bueno_483
+    21300968: sprPengruntP_bueno_484
+    21300970: sprPengruntP_bueno_485
+    21300972: sprPengruntP_bueno_486
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2032
+        width: 256
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2033
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_8
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2034
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_17
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_18
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2032
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2008
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2008
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2008
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_22
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2000
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2010
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2010
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2009
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2009
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2009
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_28
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2009
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_29
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2009
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2011
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2012
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_32
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2012
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_33
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2012
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_34
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2013
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2010
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_36
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2010
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_37
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2010
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2010
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_39
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2010
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_40
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2010
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_41
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2016
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_42
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 2016
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_43
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2020
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_44
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1984
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_45
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1984
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_47
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_48
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1985
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_49
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1985
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_50
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1988
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_51
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1989
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_52
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1989
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_53
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1992
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_54
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1994
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1791
+        width: 97
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1792
+        width: 95
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1921
+        width: 96
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1946
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1946
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_60
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1968
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1963
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1963
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_63
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1965
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_64
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1965
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_65
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1965
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_66
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1966
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_67
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1967
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_68
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1966
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_69
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1966
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_70
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1967
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_71
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1968
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_72
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1968
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_73
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1968
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_74
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1968
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_75
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1968
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_76
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1968
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_77
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1949
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_78
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1936
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_79
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1936
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_80
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1936
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_81
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1936
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_82
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1940
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_83
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1941
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_84
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1940
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1925
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1926
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_87
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1936
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_88
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1935
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1916
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_90
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_91
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1921
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_93
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_94
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_95
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_96
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_98
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1929
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_99
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_100
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_101
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_102
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_103
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_105
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_106
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1928
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_107
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_108
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_109
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_110
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_111
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_112
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_113
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_114
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_115
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_116
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_117
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1912
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_118
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1916
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_119
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1913
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_120
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1913
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_121
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_122
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_123
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1917
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_125
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_126
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_127
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1905
+        width: 48
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1904
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_129
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1904
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_130
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1904
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_131
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1904
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_132
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1904
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_133
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1904
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_134
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1904
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_135
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1913
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_136
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1913
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1856
+        width: 96
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_138
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1883
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_139
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1883
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_140
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1888
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_141
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1883
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_142
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1883
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_143
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1883
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_144
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1884
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_145
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1884
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_146
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1884
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_147
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1879
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_148
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1895
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_149
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1891
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_150
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1892
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_151
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1881
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_152
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1881
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_153
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1880
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_154
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1864
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_155
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1863
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_156
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1872
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1872
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_158
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1856
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_159
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1841
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_160
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1861
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_161
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1861
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_162
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1861
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_163
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1856
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_164
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1856
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_165
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1850
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_166
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1850
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_167
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1842
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_168
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1810
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_169
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1819
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_170
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1835
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_171
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1839
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1838
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_173
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1838
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_174
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1838
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_175
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1838
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_176
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1796
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_177
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1796
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_178
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1807
+        width: 48
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_179
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1818
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1818
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_181
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1818
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_182
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1817
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_183
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1817
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_184
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1794
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_185
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1794
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_186
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1794
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_187
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1794
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_188
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1796
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_189
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1798
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_190
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1753
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_191
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1696
+        width: 48
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_192
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1772
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_193
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1772
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_194
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1772
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_195
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1772
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_196
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1772
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_197
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1773
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_198
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1774
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_199
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1774
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_200
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1744
+        width: 80
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_201
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1747
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_202
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1747
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_203
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_204
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1762
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_205
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1752
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_206
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_207
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1747
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_209
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1746
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_210
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1656
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_211
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1744
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_212
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1744
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_213
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1744
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_214
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1744
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_215
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1744
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_216
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1744
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_217
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1736
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_218
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1736
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_219
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1703
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_220
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1703
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_221
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1696
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_222
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1696
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_223
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1664
+        width: 96
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_224
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1686
+        width: 80
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_225
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1717
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_226
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1717
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_227
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1696
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_228
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1626
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_229
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 112
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_230
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1649
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_231
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1620
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_232
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1616
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_233
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1616
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_234
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1618
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_235
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_236
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1566
+        width: 64
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_237
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1288
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_238
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1288
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_239
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1494
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_240
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1496
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_241
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_242
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1441
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_243
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_244
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_245
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_246
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_247
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_248
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_249
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_250
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_251
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_252
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_253
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1417
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_254
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_255
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_256
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_257
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1417
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_258
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1417
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_259
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_260
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_261
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_262
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_263
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_264
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_265
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_266
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_267
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_268
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_269
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_270
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_271
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1409
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_272
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_273
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1409
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_274
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_275
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_276
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_277
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_278
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1409
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_279
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_280
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_281
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_282
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_283
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_284
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1401
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_285
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_286
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_287
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1401
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_288
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_289
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1401
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_290
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_291
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_292
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_293
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_294
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_295
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_296
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_297
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_298
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_299
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_300
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_301
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_302
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_303
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_304
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1393
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_305
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_306
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1393
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_307
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_308
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_309
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_310
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_311
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_312
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_313
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1377
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_314
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_315
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_316
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_317
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_318
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_319
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_320
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_321
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_322
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_323
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_324
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_325
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_326
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_327
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_328
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1377
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_329
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_330
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_331
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_332
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_333
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_334
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_335
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_336
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_337
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_338
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_339
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_340
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_341
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_342
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_343
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_344
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_345
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1369
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_346
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_347
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_348
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_349
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_350
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_351
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_352
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_353
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1369
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_354
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_355
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_356
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_357
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_358
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_359
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_360
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1361
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_361
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_362
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_363
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_364
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_365
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_366
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_367
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_368
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_369
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_370
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_371
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_372
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_373
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_374
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_375
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_376
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_377
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_378
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_379
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_380
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_381
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_382
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_383
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_384
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_385
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_386
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1353
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_387
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_388
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_389
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_390
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_391
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_392
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_393
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_394
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_395
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_396
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_397
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_398
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_399
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1337
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_400
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_401
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_402
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_403
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_404
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_405
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_406
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_407
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_408
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_409
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_410
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_411
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_412
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1313
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_413
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_414
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_415
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_416
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_417
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_418
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_419
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_420
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_421
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_422
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_423
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_424
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_425
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_426
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_427
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_428
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_429
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_430
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_431
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_432
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_433
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_434
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1305
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_435
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_436
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_437
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_438
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1297
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_439
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_440
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_441
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_442
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_443
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_444
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_445
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_446
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_447
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_448
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_449
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_450
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_451
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1289
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_452
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1289
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_453
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_454
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_455
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_456
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_457
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_458
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_459
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_460
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_461
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_462
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_463
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_464
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_465
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_466
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_467
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_468
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_469
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_470
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_471
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_472
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_473
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_474
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_475
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_476
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_477
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_478
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_479
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1273
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_480
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_481
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_482
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_483
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_484
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_485
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 776
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprPengruntP_bueno_486
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 776
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
