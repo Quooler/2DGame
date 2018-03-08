@@ -68,16 +68,14 @@ public class Player : MonoBehaviour
             {
                 isJumping = false; 
             }
-            rb.velocity = new Vector2(horizontalSpeed, rb.velocity.y);
-            return; 
         }
-        rb.constraints = RigidbodyConstraints2D.FreezePositionY;
-        rb.velocity = new Vector2(horizontalSpeed, 0);
     }
 
     void DefaultUpdate()
     {
         HorizontalMovement();
+
+        rb.velocity = new Vector2(horizontalSpeed, rb.velocity.y); 
     }
 
     void DeadUpdate()
@@ -87,17 +85,15 @@ public class Player : MonoBehaviour
 
     void GodUpdate()
     {
-
+        rb.Sleep();
     }
 
     void HorizontalMovement()
     {
-        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-
         if(collisions.isTouchingWall)
         {
-                horizontalSpeed = 0;
-                return;
+            horizontalSpeed = 0;
+            return;
         }
 
         movementSpeed = runSpeed;
@@ -115,9 +111,6 @@ public class Player : MonoBehaviour
     void Jump()
     {
         isJumping = true;
-        rb.constraints = RigidbodyConstraints2D.None;
-        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-        rb.velocity = new Vector2(rb.velocity.x, 0);
         rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
     }
 
@@ -139,6 +132,12 @@ public class Player : MonoBehaviour
     #endregion
 
     #region SetFunctions
+    public void SetDefault()
+    {
+        rb.WakeUp(); 
+        state = State.Run
+    }
+
     public void SetGod()
     {
 

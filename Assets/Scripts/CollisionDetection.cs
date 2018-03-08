@@ -9,6 +9,7 @@ public class CollisionDetection : MonoBehaviour
     private Rigidbody2D _rb2D;
     private Collider2D _coll2D;
     private float gravityMagnitude = 1.50f;
+
     [Header("Permissions")]
     public bool checkGround = true;
     public bool checkCeiling = true;
