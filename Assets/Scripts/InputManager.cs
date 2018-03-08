@@ -27,7 +27,7 @@ public class InputManager : MonoBehaviour
 
     void InputJump()
     {
-        if(Input.GetButton("Jump"))
+        if(Input.GetButtonDown("Jump"))
         {
             Debug.Log("Jump");
             player.JumpStart();
