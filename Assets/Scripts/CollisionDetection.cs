@@ -96,7 +96,7 @@ public class CollisionDetection : MonoBehaviour
     private void CeilingCollision()
     {
         Collider2D[] results = new Collider2D[maxGroundHits];
-        Vector2 pos = this.transform.position;
+        Vector2 pos = transform.position;
         int hits = Physics2D.OverlapBox(pos + topBoxPos, topBoxSize, 0, groundFilter, results);
 
         if(hits > 0)
@@ -109,7 +109,7 @@ public class CollisionDetection : MonoBehaviour
     private void WallCollision()
     {
         Collider2D[] results = new Collider2D[maxGroundHits];
-        Vector2 pos = this.transform.position;
+        Vector2 pos = transform.position;
         int hits = Physics2D.OverlapBox(pos + sideBoxPos, sideBoxSize, 0, wallFilter, results);
 
         if(hits > 0)

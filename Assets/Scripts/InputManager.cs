@@ -16,7 +16,6 @@ public class InputManager : MonoBehaviour
             PauseUpdate();
             return;
         }
-        InputAxis();
         InputJump();
         InputPause();
 	}
@@ -26,13 +25,6 @@ public class InputManager : MonoBehaviour
         
     }
 
-    void InputAxis()
-    {
-        Vector2 axis = Vector2.zero;
-        axis.x = Input.GetAxis("Horizontal");
-        axis.y = Input.GetAxis("Vertical");
-        player.SetAxis(axis);
-    }
     void InputJump()
     {
         if(Input.GetButton("Jump"))

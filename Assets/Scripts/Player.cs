@@ -30,8 +30,6 @@ public class Player : MonoBehaviour
     float runSpeed;
     float movementSpeed;
     float horizontalSpeed;
-    [HideInInspector]
-    public Vector2 axis;
 
     [Header("Forces")]
     [SerializeField]
@@ -62,20 +60,18 @@ public class Player : MonoBehaviour
     {
         collisions.MyFixedUpdate();
 
-        if(isJumping)
+        if (isJumping)
         {
-            if (collisions.isGrounded)
-            {
-                isJumping = false; 
-            }
+            isJumping = false;
+            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
+
+        rb.velocity = new Vector2(horizontalSpeed, rb.velocity.y);
     }
 
     void DefaultUpdate()
     {
         HorizontalMovement();
-
-        rb.velocity = new Vector2(horizontalSpeed, rb.velocity.y); 
     }
 
     void DeadUpdate()
@@ -90,13 +86,14 @@ public class Player : MonoBehaviour
 
     void HorizontalMovement()
     {
-        if(collisions.isTouchingWall)
-        {
-            horizontalSpeed = 0;
-            return;
-        }
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
 
-        movementSpeed = runSpeed;
+        if (collisions.isTouchingWall)
+        {
+            movementSpeed = 0;
+        }
+        else
+            movementSpeed = runSpeed;
 
         horizontalSpeed = movementSpeed;
     }
@@ -111,20 +108,14 @@ public class Player : MonoBehaviour
     void Jump()
     {
         isJumping = true;
-        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
     }
 
     #region PublicFunctions
-    public void SetAxis(Vector2 inputAxis)
-    {
-        axis = inputAxis;
-    }
-
     public void JumpStart()
     {
         if(!canJump) return;
 
-        if(collisions.isGrounded ||collisions.isTouchingWall)
+        if(collisions.isGrounded || collisions.isTouchingWall)
         {
             Jump();
         }
@@ -134,8 +125,8 @@ public class Player : MonoBehaviour
     #region SetFunctions
     public void SetDefault()
     {
-        rb.WakeUp(); 
-        state = State.Run
+        rb.WakeUp();
+        state = State.Run; 
     }
 
     public void SetGod()
