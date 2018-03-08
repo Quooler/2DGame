@@ -7,15 +7,12 @@ public class Collectionable : MonoBehaviour
     [SerializeField]
     int myValue; 
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("HELO");
-
-        if (other.CompareTag("Player"))
+        if (collision.CompareTag("Player"))
         {
-            Debug.Log("HELO"); 
-            StatsManager.playerPoints += myValue; 
-            gameObject.SetActive(false); 
+            StatsManager.playerPoints += myValue;
+            gameObject.SetActive(false);
         }
     }
 }
