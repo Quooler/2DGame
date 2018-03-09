@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement; 
 
 public class InputManager : MonoBehaviour
 {
@@ -18,7 +19,16 @@ public class InputManager : MonoBehaviour
         }
         InputJump();
         InputPause();
+        Reset();
 	}
+
+    void Reset()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+    }
 
     void PauseUpdate()
     {
