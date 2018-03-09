@@ -20,12 +20,14 @@ public class InputManager : MonoBehaviour
         InputJump();
         InputPause();
         Reset();
+        Exit(); 
 	}
 
     void Reset()
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
+            StatsManager.playerPoints = 0; 
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
@@ -55,4 +57,12 @@ public class InputManager : MonoBehaviour
         }
     }
 
+    void Exit()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit(); 
+        }
+
+    }
 }

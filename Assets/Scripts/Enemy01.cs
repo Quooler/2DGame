@@ -5,12 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class Enemy01 : MonoBehaviour
 {
-
-    void OnTriggerEnter2D(Collider2D collision)
+    void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             collision.gameObject.SetActive(false);
+            StatsManager.playerPoints = 0; 
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
