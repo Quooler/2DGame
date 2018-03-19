@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 212508820226911532}
   - component: {fileID: 114102157989562820}
   - component: {fileID: 114099573458406986}
+  - component: {fileID: 95791713411903074}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -37,8 +38,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1152978479782488}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.59, y: 0.61, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.9972258, y: 0.31968755, z: 10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -59,10 +60,10 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 38d3b0bc4023d214aa45ba1632a89a6b, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &61583643997401876
 BoxCollider2D:
@@ -80,7 +81,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
-    oldSize: {x: 0.14, y: 0.25}
+    oldSize: {x: 0.19, y: 0.23}
     newSize: {x: 0.14, y: 0.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -89,6 +90,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.02, y: 0.15}
   m_EdgeRadius: 0.04
+--- !u!95 &95791713411903074
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1152978479782488}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: bcacbb5fb9d87c342955444b8f0ebf7b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114099573458406986
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -100,6 +118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2655fd3ee46e1e4ea1b1a168505f6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 95791713411903074}
   checkGround: 1
   checkCeiling: 1
   checkWall: 1
@@ -169,8 +188,9 @@ MonoBehaviour:
   rb: {fileID: 50625782129201200}
   collisions: {fileID: 114099573458406986}
   runSpeed: 2
-  jumpForce: 7
+  jumpForce: 4
   rend: {fileID: 212508820226911532}
+  animator: {fileID: 95791713411903074}
 --- !u!212 &212508820226911532
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -204,8 +224,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1e6e1e3314ae87945a745cfa22a7cc6b, type: 3}
+  m_SortingOrder: 39
+  m_Sprite: {fileID: 21300002, guid: 1e6e1e3314ae87945a745cfa22a7cc6b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

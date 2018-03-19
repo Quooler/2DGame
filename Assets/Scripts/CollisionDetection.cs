@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class CollisionDetection : MonoBehaviour
 {
+    [SerializeField]
+    Animator animator; 
+
     #region Variables
     [Header("Physics")]
     private Rigidbody2D _rb2D;
@@ -59,6 +62,8 @@ public class CollisionDetection : MonoBehaviour
         if(checkGround) GroundCollision();
         if(checkCeiling) CeilingCollision();
         if(checkWall) WallCollision();
+
+        animator.SetBool("IsFalling", isFalling); 
     }
 
     private void ResetState()
@@ -86,12 +91,15 @@ public class CollisionDetection : MonoBehaviour
 
         if(hits > 0)
         {
-            isGrounded = true;
+            isGrounded = true; 
         }
 
         if(!wasGroundedLastFrame && isGrounded) justGotGrounded = true;
         if(wasGroundedLastFrame && !isGrounded) justNotGrounded = true;
-        if(isGrounded) isFalling = false;
+        if(isGrounded)
+        {
+            isFalling = false;
+        }
     }
     private void CeilingCollision()
     {

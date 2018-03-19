@@ -37,7 +37,9 @@ public class Player : MonoBehaviour
 
     [Header("Graphics")]
     public SpriteRenderer rend;
-	
+    [SerializeField]
+    Animator animator; 
+
 	void Update ()
     {
         switch(state)
@@ -63,6 +65,7 @@ public class Player : MonoBehaviour
         if (isJumping)
         {
             isJumping = false;
+            animator.SetBool("IsFalling", true);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
 
@@ -117,6 +120,7 @@ public class Player : MonoBehaviour
 
         if(collisions.isGrounded || collisions.isTouchingWall)
         {
+            animator.SetTrigger("Jump");
             Jump();
         }
     }

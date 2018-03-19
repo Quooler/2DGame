@@ -6,18 +6,37 @@ using System;
 
 public class Enemy01 : MonoBehaviour
 {
+    [SerializeField]
     Transform[] pathPoints;
     bool isIndexing;
-    int index; 
 
-    private void Update()
+    [SerializeField]
+    float range;
+
+    int index;
+    [SerializeField]
+    float velocity;
+
+    void Update()
     {
-        transform.position = Vector3.Lerp(transform.position, pathPoints[index].position, Time.deltaTime);
-
-        if(transform.position == pathPoints[index].position)
+        if(pathPoints.Length != 0)
         {
-            isIndexing = !isIndexing;
-            index = Convert.ToInt32(isIndexing);        
+            transform.position = Vector3.Lerp(transform.position, pathPoints[index].position, Time.deltaTime * velocity);
+
+            if(Vector3.Distance(transform.position, pathPoints[index].position) < range)
+            {
+                isIndexing = !isIndexing;
+                index = Convert.ToInt32(isIndexing);
+            }
+
+            if(pathPoints[index].position.x < transform.position.x)
+            {
+                transform.localScale = new Vector3(1, 1, 1); 
+            }
+            else
+            {
+                transform.localScale = new Vector3(-1, 1, 1);
+            }
         }
     }
 
