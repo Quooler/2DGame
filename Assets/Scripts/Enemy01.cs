@@ -17,6 +17,9 @@ public class Enemy01 : MonoBehaviour
     [SerializeField]
     float velocity;
 
+    [SerializeField]
+    Animator animator; 
+
     void Update()
     {
         if(pathPoints.Length != 0)
@@ -25,8 +28,13 @@ public class Enemy01 : MonoBehaviour
 
             if(Vector3.Distance(transform.position, pathPoints[index].position) < range)
             {
+                animator.SetBool("Alive", true); 
                 isIndexing = !isIndexing;
                 index = Convert.ToInt32(isIndexing);
+            }
+            else
+            {
+                animator.SetBool("Alive", false); 
             }
 
             if(pathPoints[index].position.x < transform.position.x)
