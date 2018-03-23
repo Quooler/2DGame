@@ -1,4 +1,7 @@
 # Pungu Pocket Version
+
+![Pungu](https://github.com/Quooler/Pungu-2D/blob/master/Assets/Sprites/Pungu.png "Logo")
+
 This is a 2D runner platform game made in Camachin Studios, a company with two members: 
 
 **Alberto Cano**, level design & resources manager.
