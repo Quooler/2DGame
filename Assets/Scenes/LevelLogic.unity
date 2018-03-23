@@ -147,7 +147,7 @@ MonoBehaviour:
   myAudioSource: {fileID: 874437973}
   menuMusic: {fileID: 8300000, guid: 2660f4666aacc4542bc9fa5e14ece49c, type: 3}
   gamePlayMusic: {fileID: 8300000, guid: 30b633dd053719a43b9eaad8ccb390e0, type: 3}
-  endMusic: {fileID: 0}
+  endMusic: {fileID: 8300000, guid: 6bb572a51114d2b4ba88b316b5885a53, type: 3}
 --- !u!4 &874437972
 Transform:
   m_ObjectHideFlags: 0

@@ -40,7 +40,6 @@ public class InputManager : MonoBehaviour
     public void Reset()
     {
         levelLogic.Stop(); 
-        StatsManager.playerPoints = 0;
         levelLogic.StartLoad(gameplayScene); 
     }
 
@@ -72,5 +71,11 @@ public class InputManager : MonoBehaviour
     public void Exit()
     {
         Application.Quit(); 
+    }
+
+    public void LoadEndScene()
+    {
+        levelLogic.Stop(); 
+        levelLogic.StartLoad(endScene); 
     }
 }

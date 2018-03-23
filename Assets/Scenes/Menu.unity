@@ -337,8 +337,8 @@ GameObject:
   - component: {fileID: 218787018}
   - component: {fileID: 218787017}
   - component: {fileID: 218787016}
-  - component: {fileID: 218787015}
   - component: {fileID: 218787020}
+  - component: {fileID: 218787015}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -566,7 +566,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 218787020}
         m_MethodName: Exit
         m_Mode: 1
         m_Arguments:
@@ -1321,6 +1321,7 @@ MonoBehaviour:
   isPaused: 0
   disabler: {fileID: 1201149998}
   startGame: {fileID: 218787020}
+  endScreenLogic: {fileID: 0}
 --- !u!114 &1201149998
 MonoBehaviour:
   m_ObjectHideFlags: 0

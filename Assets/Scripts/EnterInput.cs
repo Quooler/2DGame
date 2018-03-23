@@ -23,7 +23,7 @@ public class EnterInput : MonoBehaviour
 
     void Update ()
     {
-		if (Input.GetKeyDown(KeyCode.KeypadEnter) || Input.GetKeyDown(KeyCode.S))
+		if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.S))
         {
             easing.SetActive(true);       
            // levelLogic.StartLoad(gameplayScene); 

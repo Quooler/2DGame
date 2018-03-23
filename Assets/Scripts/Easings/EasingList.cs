@@ -7,7 +7,9 @@ public class EasingList : BaseEasing
     [SerializeField]
     DisableGmeobject disabler;
     [SerializeField]
-    EnterInput startGame; 
+    EnterInput startGame;
+    [SerializeField]
+    EndScreenLogic endScreenLogic; 
 
     void Start()
     {
@@ -15,6 +17,7 @@ public class EasingList : BaseEasing
         {
             disabler.Disable();
         }
+
         if(randomDelay) delayStart = Random.Range(minDelay, maxDelay);
 
         currentTime = 0;
@@ -356,6 +359,11 @@ public class EasingList : BaseEasing
             if (startGame != null)
             {
                 startGame.StartLoad(); 
+            }
+
+            if (endScreenLogic != null)
+            {
+                endScreenLogic.LoadScene(); 
             }
 
             if (animLoop == true)

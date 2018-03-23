@@ -34,6 +34,8 @@ public class Player : MonoBehaviour
     Rigidbody2D rb;
     [SerializeField]
     CollisionDetection collisions;
+    [SerializeField]
+    Collider2D collider; 
 
     [Header("Speed")]
     [SerializeField]
@@ -73,16 +75,19 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        collisions.MyFixedUpdate();
-
-        if (isJumping)
+        if (state != State.Dead)
         {
-            isJumping = false;
-            animator.SetBool("IsFalling", true);
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-        }
+            collisions.MyFixedUpdate();
 
-        rb.velocity = new Vector2(horizontalSpeed, rb.velocity.y);
+            if (isJumping)
+            {
+                isJumping = false;
+                animator.SetBool("IsFalling", true);
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+
+            rb.velocity = new Vector2(horizontalSpeed, rb.velocity.y);
+        }        
     }
 
     void DefaultUpdate()
@@ -94,7 +99,7 @@ public class Player : MonoBehaviour
     {
         if (transform.position.y < -2)
         {
-            manager.Reset(); 
+            manager.LoadEndScene(); 
         }
     }
 
@@ -160,9 +165,11 @@ public class Player : MonoBehaviour
 
     public void SetDead()
     {
+        collider.enabled = false;
+        collisions.enabled = false; 
+        StatsManager.playerPoints = 0;
         state = State.Dead;
         rb.velocity = Vector3.zero;
-        rb.Sleep();
         myAudioSource.PlayOneShot(dieAudio);
     }
     #endregion
