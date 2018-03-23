@@ -17,33 +17,25 @@ public class Enemy01 : MonoBehaviour
     [SerializeField]
     float velocity;
 
-    [SerializeField]
-    Animator animator; 
-
     void Update()
     {
-        if(pathPoints.Length != 0)
+        if(pathPoints.Length > 0)
         {
             transform.position = Vector3.Lerp(transform.position, pathPoints[index].position, Time.deltaTime * velocity);
 
             if(Vector3.Distance(transform.position, pathPoints[index].position) < range)
-            {
-                animator.SetBool("Alive", true); 
+            { 
                 isIndexing = !isIndexing;
                 index = Convert.ToInt32(isIndexing);
-            }
-            else
-            {
-                animator.SetBool("Alive", false); 
             }
 
             if(pathPoints[index].position.x < transform.position.x)
             {
-                transform.localScale = new Vector3(1, 1, 1); 
+                transform.localScale = new Vector3(-1, 1, 1); 
             }
             else
             {
-                transform.localScale = new Vector3(-1, 1, 1);
+                transform.localScale = new Vector3(1, 1, 1);
             }
         }
     }
@@ -52,9 +44,9 @@ public class Enemy01 : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            collision.gameObject.SetActive(false);
+            Player other = collision.gameObject.GetComponent<Player>();
+            other.SetDead(); 
             StatsManager.playerPoints = 0; 
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 }

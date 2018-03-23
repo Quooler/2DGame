@@ -18,19 +18,26 @@ public class EnterInput : MonoBehaviour
     void Start()
     {
         levelLogic = GameObject.FindGameObjectWithTag("Manager").GetComponent<LevelLogic>();
+        levelLogic.PlayMenu(); 
     }
 
     void Update ()
     {
 		if (Input.GetKeyDown(KeyCode.KeypadEnter) || Input.GetKeyDown(KeyCode.S))
         {
-            easing.SetActive(true);
+            easing.SetActive(true);       
            // levelLogic.StartLoad(gameplayScene); 
         }
 	}
 
     public void StartLoad()
     {
+        levelLogic.Stop();
         levelLogic.StartLoad(gameplayScene);
+    }
+
+    public void Exit()
+    {
+        Application.Quit();
     }
 }

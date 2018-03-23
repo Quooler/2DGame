@@ -10,7 +10,20 @@ public class InputManager : MonoBehaviour
     Player player;
     bool isPaused;
 
-	void Update ()
+    LevelLogic levelLogic;
+
+    [Header("Scenes")]
+    const int titleScene = 1;
+    const int gameplayScene = 2;
+    const int endScene = 3;
+
+    void Start()
+    {
+        levelLogic = GameObject.FindGameObjectWithTag("Manager").GetComponent<LevelLogic>();
+        levelLogic.PlayGameplay();
+    }
+
+    void Update ()
     {
         if (isPaused)
         {
@@ -22,17 +35,13 @@ public class InputManager : MonoBehaviour
             InputJump();
             InputPause();
         }
-
-        //Reset();
 	}
 
-    void Reset()
+    public void Reset()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            StatsManager.playerPoints = 0; 
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
+        levelLogic.Stop(); 
+        StatsManager.playerPoints = 0;
+        levelLogic.StartLoad(gameplayScene); 
     }
 
     void PauseUpdate()

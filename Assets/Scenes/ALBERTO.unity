@@ -150,6 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a387c387653f964db96fa4979655b20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myRenderer: {fileID: 0}
+  myAudioSource: {fileID: 0}
   myValue: 150
 --- !u!212 &13598544
 SpriteRenderer:
@@ -290,6 +292,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4eb78e6d0acf6094cb062f4762033c3f, type: 2}
   m_IsPrefabParent: 0
+--- !u!4 &123557598 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4924037213582036, guid: b2e9963e46772c54b8bdb6cb1d4137d2,
+    type: 2}
+  m_PrefabInternal: {fileID: 286103092}
 --- !u!4 &125588882 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4293960492725064, guid: d5914760d150ecc4aa76b453aeb3293c,
@@ -483,6 +490,67 @@ Prefab:
     - {fileID: 212961420185152314, guid: ceec1c9abe614904986f5d14beba44ff, type: 2}
     - {fileID: 114592618776644306, guid: ceec1c9abe614904986f5d14beba44ff, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: ceec1c9abe614904986f5d14beba44ff, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &286103092
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 114738003238190104, guid: b2e9963e46772c54b8bdb6cb1d4137d2,
+        type: 2}
+      propertyPath: pathPoints.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.329
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.092
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159942023706200, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4924037213582036, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.922
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738003238190104, guid: b2e9963e46772c54b8bdb6cb1d4137d2,
+        type: 2}
+      propertyPath: pathPoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 1610876682}
+    - target: {fileID: 114738003238190104, guid: b2e9963e46772c54b8bdb6cb1d4137d2,
+        type: 2}
+      propertyPath: pathPoints.Array.data[1]
+      value: 
+      objectReference: {fileID: 123557598}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b2e9963e46772c54b8bdb6cb1d4137d2, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &328089651
 Prefab:
@@ -711,6 +779,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a387c387653f964db96fa4979655b20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myRenderer: {fileID: 0}
+  myAudioSource: {fileID: 0}
   myValue: 100
 --- !u!212 &442675258
 SpriteRenderer:
@@ -1119,7 +1189,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &625176474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1910,6 +1980,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a387c387653f964db96fa4979655b20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myRenderer: {fileID: 0}
+  myAudioSource: {fileID: 0}
   myValue: 100
 --- !u!212 &808243543
 SpriteRenderer:
@@ -2843,7 +2915,6 @@ MonoBehaviour:
   pathPoints: []
   range: 0
   velocity: 0
-  animator: {fileID: 0}
 --- !u!4 &1200583770 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4192487283132630, guid: 78bca9584e92f854badff5b88542a284,
@@ -3101,7 +3172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1301419354
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3740,6 +3811,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a387c387653f964db96fa4979655b20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myRenderer: {fileID: 0}
+  myAudioSource: {fileID: 0}
   myValue: 100
 --- !u!212 &1554808168
 SpriteRenderer:
@@ -3885,6 +3958,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1610876682 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4343992967293278, guid: b2e9963e46772c54b8bdb6cb1d4137d2,
+    type: 2}
+  m_PrefabInternal: {fileID: 286103092}
 --- !u!1001 &1651753976
 Prefab:
   m_ObjectHideFlags: 0
@@ -4777,7 +4855,6 @@ MonoBehaviour:
   pathPoints: []
   range: 0
   velocity: 0
-  animator: {fileID: 0}
 --- !u!50 &1803836630
 Rigidbody2D:
   serializedVersion: 4
@@ -5612,6 +5689,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a387c387653f964db96fa4979655b20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myRenderer: {fileID: 0}
+  myAudioSource: {fileID: 0}
   myValue: 100
 --- !u!212 &2043993384
 SpriteRenderer:

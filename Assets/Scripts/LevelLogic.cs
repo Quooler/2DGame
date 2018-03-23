@@ -107,4 +107,36 @@ public class LevelLogic : MonoBehaviour
         yield return new WaitForSeconds(fadeTime);
         Load();
     }
+
+    #region MUSIC
+    [Header("Music")]
+    [SerializeField]
+    AudioSource myAudioSource;
+    [SerializeField]
+    AudioClip menuMusic;
+    [SerializeField]
+    AudioClip gamePlayMusic;
+    [SerializeField]
+    AudioClip endMusic;
+
+    public void Stop()
+    {
+        myAudioSource.Stop();
+    }
+
+    public void PlayMenu()
+    {
+        myAudioSource.PlayOneShot(menuMusic);
+    }
+
+    public void PlayGameplay()
+    {
+        myAudioSource.PlayOneShot(gamePlayMusic);
+    }
+
+    public void PlayEnd()
+    {
+        myAudioSource.PlayOneShot(endMusic);
+    }
+    #endregion
 }

@@ -7,6 +7,16 @@ public class Player : MonoBehaviour
     public enum State { Run, Dead, God }
     public State state = State.Run;
 
+    [Header("Sound clips")]
+    [SerializeField]
+    AudioSource myAudioSource; 
+    [SerializeField]
+    AudioClip jumpAudio;
+    [SerializeField]
+    AudioClip dieAudio;
+    [SerializeField]
+    AudioClip groundedAudio; 
+
     [Header("State")]
     [SerializeField]
     bool canJump = true;
@@ -38,7 +48,10 @@ public class Player : MonoBehaviour
     [Header("Graphics")]
     public SpriteRenderer rend;
     [SerializeField]
-    Animator animator; 
+    Animator animator;
+
+    [SerializeField]
+    InputManager manager; 
 
 	void Update ()
     {
@@ -79,7 +92,10 @@ public class Player : MonoBehaviour
 
     void DeadUpdate()
     {
-
+        if (transform.position.y < -2)
+        {
+            manager.Reset(); 
+        }
     }
 
     void GodUpdate()
@@ -121,6 +137,7 @@ public class Player : MonoBehaviour
         if(collisions.isGrounded || collisions.isTouchingWall)
         {
             animator.SetTrigger("Jump");
+            myAudioSource.PlayOneShot(jumpAudio);
             Jump();
         }
     }
@@ -139,6 +156,14 @@ public class Player : MonoBehaviour
 
 
         state = State.God;
+    }
+
+    public void SetDead()
+    {
+        state = State.Dead;
+        rb.velocity = Vector3.zero;
+        rb.Sleep();
+        myAudioSource.PlayOneShot(dieAudio);
     }
     #endregion
 
