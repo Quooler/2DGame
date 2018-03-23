@@ -17,10 +17,13 @@ public class InputManager : MonoBehaviour
             PauseUpdate();
             return;
         }
-        InputJump();
-        InputPause();
-        Reset();
-        Exit(); 
+        if (player != null)
+        {
+            InputJump();
+            InputPause();
+        }
+
+        //Reset();
 	}
 
     void Reset()
@@ -57,12 +60,8 @@ public class InputManager : MonoBehaviour
         }
     }
 
-    void Exit()
+    public void Exit()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            Application.Quit(); 
-        }
-
+        Application.Quit(); 
     }
 }

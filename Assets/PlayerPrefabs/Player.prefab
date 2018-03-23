@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 114102157989562820}
   - component: {fileID: 114099573458406986}
   - component: {fileID: 95791713411903074}
+  - component: {fileID: 81419377654118426}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -90,6 +91,13 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.02, y: 0.15}
   m_EdgeRadius: 0.04
+--- !u!81 &81419377654118426
+AudioListener:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1152978479782488}
+  m_Enabled: 1
 --- !u!95 &95791713411903074
 Animator:
   serializedVersion: 3
@@ -187,8 +195,8 @@ MonoBehaviour:
   isLookingDown: 0
   rb: {fileID: 50625782129201200}
   collisions: {fileID: 114099573458406986}
-  runSpeed: 2
-  jumpForce: 4
+  runSpeed: 1.5
+  jumpForce: 3.5
   rend: {fileID: 212508820226911532}
   animator: {fileID: 95791713411903074}
 --- !u!212 &212508820226911532
